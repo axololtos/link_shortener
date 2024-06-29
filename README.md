@@ -31,6 +31,12 @@ This project provides a simple web service for shortening URLs using the Google 
     mvn clean install
     ```
 
+Contributing
+Feel free to submit issues, fork the repository and send pull requests!
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Running the Application
 
 You can run the Spring Boot application using the following command:
